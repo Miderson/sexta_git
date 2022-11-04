@@ -18,3 +18,10 @@ h1 {color:red;
  .reu {border-style: solid;
 border-color: red;
  }
+
+nav li {display: inline-block;
+    margin-left: 5%;
+    padding-top: 10%;
+    border-style: solid;
+    border-color: chartreuse;
+}
